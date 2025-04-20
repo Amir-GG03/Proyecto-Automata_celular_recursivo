@@ -1,6 +1,6 @@
 Pequeña aportacion de uno de mis proyectos favoritos, El Automata celular.
 
-*Utliza un numero decimal que pasa a binario, lo cual crea una regla de comportamiento para la creacion de generaciones de 0 y 1 mediante recursividad
+*Es un codigo en lenguaje C, que utliza un numero decimal que pasa a binario, lo cual crea una regla de comportamiento para la creacion de generaciones de 0 y 1 mediante recursividad
 Existen 256 reglas posibles en el espacio de los autómatas celulares elementales 
 //Se recomienda utilizar los valores 45,47,99,110,225
 
